@@ -1,0 +1,27 @@
+{
+  "author": "Francesco Bertocci",
+  "authorEmail": "fbmore@gmail.com",
+  "name": "Color Manager",
+  "description": "Import, Export and Update Color Variables.",
+  "version": "1.0",
+  "icon": "icon.png",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "🤹‍♀️ Color Manager",
+      "shortcut": "option cmd l",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "🤹‍♀️ Color Manager",
+    "isRoot": true,
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.fbmore.ff-color-manager",
+}
