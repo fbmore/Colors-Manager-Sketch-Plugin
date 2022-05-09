@@ -1,0 +1,19 @@
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Colors Manager</title>
+    <link>https://raw.githubusercontent.com/fbmore/Colors-Manager-Sketch-Plugin/main/appcast.xml</link>
+    <description>Import, Export and Update Color Variables and Tokens.</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.1</title>
+      <description>
+        <![CDATA[
+        <ul>
+          <li>Initial release</li>
+        </ul>
+        ]]>
+      </description>
+      <enclosure url="https://github.com/fbmore/Colors-Manager-Sketch-Plugin/raw/main/Colors-Manager.sketchplugin.zip" sparkle:version="1.5.6" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+{
+  "author": "Francesco Bertocci",
+  "authorEmail": "fbmore@gmail.com",
+  "name": "Colors Manager",
+  "description": "Import, Export and Update Color Variables and Tokens.",
+  "version": "1.1",
+  "appcast": "https://raw.githubusercontent.com/fbmore/Colors-Manager-Sketch-Plugin/main/appcast.xml",
+  "homepage": "https://github.com/fbmore/Colors-Manager-Sketch-Plugin/",
+  "copyright": "Copyright © 2022 Francesco Bertocci. All rights reserved.",
+  "version": "1.0",
+  "icon": "icon.png",
+  "commands" : [
+    {
+      "script" : "script.js",
+      "name" : "Colors Manager",
+      "handlers" : {
+        "run" : "onRun"
+      },
+      "identifier" : "com.bohemiancoding.sketch.runscriptidentifier"
+    }
+  ],
+  "menu" : {
+    "title" : "Colors Manager",
+    "isRoot": true,
+    "items" : [
+      "com.bohemiancoding.sketch.runscriptidentifier"
+    ]
+  },
+  "identifier" : "com.fbmore.ff-colors-manager",
+}
