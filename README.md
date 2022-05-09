@@ -1,4 +1,4 @@
-![](/Images/Colors-Manager-Sketch-Plugin-Social.png)
+![](/Images/Cover.png)
 # Colors Manager
 Import, Export and Update Color Variables and Tokens.
 
