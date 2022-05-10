@@ -7,7 +7,6 @@
   "appcast": "https://raw.githubusercontent.com/fbmore/Colors-Manager-Sketch-Plugin/main/appcast.xml",
   "homepage": "https://github.com/fbmore/Colors-Manager-Sketch-Plugin/",
   "copyright": "Copyright © 2022 Francesco Bertocci. All rights reserved.",
-  "version": "1.0",
   "icon": "icon.png",
   "commands" : [
     {
