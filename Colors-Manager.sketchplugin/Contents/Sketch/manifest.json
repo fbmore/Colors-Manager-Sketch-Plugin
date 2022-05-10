@@ -3,7 +3,7 @@
   "authorEmail": "fbmore@gmail.com",
   "name": "Colors Manager",
   "description": "Import, Export and Update Color Variables and Tokens.",
-  "version": "1.1",
+  "version": "1.2",
   "appcast": "https://raw.githubusercontent.com/fbmore/Colors-Manager-Sketch-Plugin/main/appcast.xml",
   "homepage": "https://github.com/fbmore/Colors-Manager-Sketch-Plugin/",
   "copyright": "Copyright © 2022 Francesco Bertocci. All rights reserved.",
